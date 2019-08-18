@@ -1,7 +1,8 @@
-# QuantUI
-ui for quant project
+# Gallery
+some works in quant trading:
+1.some research reports
+2.ppt for projects
+3.project develop plan
+4.trading system ui
 
-
-# Report
-
-some research report in china market
+contact me at: huangxy17@fudan.edu.cn
